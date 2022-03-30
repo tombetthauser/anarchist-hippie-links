@@ -27,3 +27,9 @@ Job search related links for aspiring anarchist hippie software engineers.
 * [hackers on planet earth](https://hope.net/)
 * [defcon](https://defcon.org/)
 * [terrible ideas hackathon](https://stupidhackathon.com/)
+
+---
+
+## Books Blogs and Videos
+
+* [machines of loving grace (bbc documentary)](https://thoughtmaybe.com/all-watched-over-by-machines-of-loving-grace/)
