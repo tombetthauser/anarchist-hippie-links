@@ -34,4 +34,4 @@ Job search related links for aspiring anarchist hippie software engineers.
 ## Books Blogs and Videos
 
 * [machines of loving grace (bbc documentary)](https://thoughtmaybe.com/all-watched-over-by-machines-of-loving-grace/)
-* [moxie marlinspike](https://moxie.org/blog/)
+* [moxie marlinspike (blog)](https://moxie.org/blog/)
