@@ -16,9 +16,10 @@ Job search related links for aspiring anarchist hippie software engineers.
 
 ## Specific Company Job Boards
 
+* [https://www.mozilla.org/en-US/careers/listings/](https://www.mozilla.org/en-US/careers/listings/)
+* [https://careers-redhat.icims.com/jobs](https://careers-redhat.icims.com/jobs/search?ss=1&searchCategory=17505)
 * [https://duckduckgo.com/hiring](https://duckduckgo.com/hiring)
 * [https://brave.com/careers/](https://brave.com/careers/)
-* [https://www.mozilla.org/en-US/careers/listings/](https://www.mozilla.org/en-US/careers/listings/)
 
 ---
 
