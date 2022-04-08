@@ -31,7 +31,7 @@ Job search related links for aspiring anarchist hippie software engineers.
 
 ---
 
-## Books Blogs and Videos
+## Books Authors and Videos
 
 * [hackernews (forum)](https://news.ycombinator.com/)
 * [tim berners-lee (software engineer / non-fiction author)](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
