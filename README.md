@@ -33,5 +33,11 @@ Job search related links for aspiring anarchist hippie software engineers.
 
 ## Books Blogs and Videos
 
+* [hackernews (forum)](https://news.ycombinator.com/)
+* [william gibson (software centered fiction author)](https://en.wikipedia.org/wiki/William_Gibson)
+* [liu cixin (software engineer / fiction author)](https://en.wikipedia.org/wiki/Liu_Cixin)
+* [fran wilde (software engineer / fiction author)](https://en.wikipedia.org/wiki/Fran_Wilde_(author))
+* [kim stanley robinson (software / ecologey centered fiction author)](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)
 * [machines of loving grace (bbc documentary)](https://thoughtmaybe.com/all-watched-over-by-machines-of-loving-grace/)
 * [moxie marlinspike (blog)](https://moxie.org/blog/)
+* [tim berners-lee (software engineer / non-fiction author)](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
