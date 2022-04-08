@@ -35,7 +35,7 @@ Job search related links for aspiring anarchist hippie software engineers.
 
 * [hackernews (forum)](https://news.ycombinator.com/)
 * [tim berners-lee (software engineer / non-fiction author)](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
-* [moxie marlinspike (software themed blog)](https://moxie.org/blog/)
+* [moxie marlinspike (software engineer / blog)](https://moxie.org/blog/)
 * [william gibson (software centered fiction author)](https://en.wikipedia.org/wiki/William_Gibson)
 * [liu cixin (software engineer / fiction author)](https://en.wikipedia.org/wiki/Liu_Cixin)
 * [fran wilde (software engineer / fiction author)](https://en.wikipedia.org/wiki/Fran_Wilde_(author))
