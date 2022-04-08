@@ -25,7 +25,7 @@ Job search related links for aspiring anarchist hippie software engineers.
 
 ## Hackathons and Conventions
 
-* [hackers on planet earth](https://hope.net/)
+* [HOPE (hackers on planet earth)](https://hope.net/)
 * [defcon](https://defcon.org/)
 * [terrible ideas hackathon](https://stupidhackathon.com/)
 
