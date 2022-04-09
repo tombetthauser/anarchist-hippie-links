@@ -20,7 +20,7 @@ Job search related links for aspiring anarchist hippie software engineers.
 * [https://careers-redhat.icims.com/jobs](https://careers-redhat.icims.com/jobs/search?ss=1&searchCategory=17505)
 * [https://duckduckgo.com/hiring](https://duckduckgo.com/hiring)
 * [https://brave.com/careers/](https://brave.com/careers/)
-* [united states digital corps](https://digitalcorps.gsa.gov/)
+* [https://digitalcorps.gsa.gov/](https://digitalcorps.gsa.gov/)
 
 ---
 
