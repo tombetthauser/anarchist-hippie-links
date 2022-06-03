@@ -35,7 +35,7 @@ Job search related links for aspiring cyberpunk hippie software engineers and / 
 ## Authors / Blogs / Videos
 
 * [hackernews (forum)](https://news.ycombinator.com/)
-* [weaving the web (by tim berners-lee)](https://www.powells.com/book/weaving-the-web-9780062515872) | [wiki)](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
+* [weaving the web (by tim berners-lee)](https://www.powells.com/book/weaving-the-web-9780062515872) | [wiki](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
 * [moxie marlinspike (software engineer / blog)](https://moxie.org/blog/)
 * [william gibson (software-centered fiction author)](https://en.wikipedia.org/wiki/William_Gibson) | [neuromancer](https://www.powells.com/book/neuromancer-9780441007462)
 * [liu cixin (software engineer / fiction author)](https://en.wikipedia.org/wiki/Liu_Cixin) | [3 body problem](https://www.powells.com/book/the-threebody-problem-9780765377067/62-0)
