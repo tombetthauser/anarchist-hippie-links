@@ -1,6 +1,6 @@
 # Cyberpunk Tech Hippie Links
 
-Job search related links for aspiring cyberpunk hippie software engineers.
+Job search related links for aspiring cyberpunk hippie software engineers and / or anyone looking for a job or learning more about tech culture.
 
 ---
 
