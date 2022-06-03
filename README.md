@@ -1,6 +1,6 @@
-# Anarchist Tech Hippie Links
+# Cyberpunk Tech Hippie Links
 
-Job search related links for aspiring anarchist hippie software engineers.
+Job search related links for aspiring cyberpunk hippie software engineers.
 
 ---
 
@@ -32,7 +32,7 @@ Job search related links for aspiring anarchist hippie software engineers.
 
 ---
 
-## Authors Blogs and Videos
+## Authors Blogs Videos etc
 
 * [hackernews (forum)](https://news.ycombinator.com/)
 * [tim berners-lee (software engineer / non-fiction author)](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
