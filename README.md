@@ -50,5 +50,5 @@ Job search related links for aspiring cyberpunk hippie software engineers and / 
 * [Computer History Museum (San Jose, CA)](https://computerhistory.org/)
 * [Telecommunications Museum (Seattle, WA)](https://www.telcomhistory.org/connections-museum-seattle/)
 * [Engineering Hippocratic Oath](https://en.wikipedia.org/wiki/Order_of_the_Engineer)
-* [Machines of Loving Grace (Poem)](https://www.sweetbooks.com/pictures/medium/SKB-4115.jpg) | [wiki](https://en.wikipedia.org
+* [Machines of Loving Grace (Poem)](https://www.sweetbooks.com/pictures/medium/SKB-4115.jpg) | [wiki](https://en.wikipedia.org/wiki/All_Watched_Over_by_Machines_of_Loving_Grace) | [film series](https://thoughtmaybe.com/all-watched-over-by-machines-of-loving-grace/) 📌 new!
 
