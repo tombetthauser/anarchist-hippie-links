@@ -21,6 +21,7 @@ Job search related links for aspiring cyberpunk hippie software engineers and / 
 * [https://duckduckgo.com/hiring](https://duckduckgo.com/hiring)
 * [https://brave.com/careers/](https://brave.com/careers/)
 * [https://digitalcorps.gsa.gov/](https://digitalcorps.gsa.gov/)
+* [https://www.reverielabs.com/careers](https://www.reverielabs.com/careers)
 
 ---
 
